@@ -7,15 +7,15 @@ A ideia desse projeto é criar um renderizador igual o react, vue ou outra tecno
 
 
 1. Renderização
-	. Por nodeElement
-	. Por String
-		. Precisa pegar o nome da tag para criar o elemento node (regex) [1]
+	- Por nodeElement
+	- Por String
+		- Precisa pegar o nome da tag para criar o elemento node (regex) [1]
 2. Atributos
-	. Passar tudo por objeto
-	. Passar tudo por string
-		Pegar todos os parametros da string para adicionalos no elemento node (regex para pegar os atributos) [2]
+	- Passar tudo por objeto
+	- Passar tudo por string
+		- Pegar todos os parametros da string para adicionalos no elemento node (regex para pegar os atributos) [2]
 3. Atualização dos estados
-	Nó no DOM
+	- Nó no DOM
 
 
 > Regex
